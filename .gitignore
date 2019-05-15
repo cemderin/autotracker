@@ -1,0 +1,9 @@
+*-collection.json
+*--dictionary.json
+*--projects.json
+*--trained-net.json
+*--training-data.json
+output.json
+package.json
+.idea
+node_modules

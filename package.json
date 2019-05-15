@@ -1,0 +1,13 @@
+{
+  "name": "autotracker",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://cemderin@github.com/cemderin/autotracker.git",
+  "author": "Cem Derin <cemyderin@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "active-window": "^0.1.0",
+    "brain.js": "^1.6.1",
+    "electron": "^5.0.1"
+  }
+}
